@@ -1,0 +1,3 @@
+cond,k,variant,vocab,split_rate,delta_fert,from_splits,from_fragmentation,frag_share,stem_single_token_rate,stem_tokens_mean,n_split_eojeol,n_words
+P2,30,Rp,128000,0.4206,0.3518,0.4469,-0.095,-0.2701,0.9405,1.0936,484518,1151963
+P2,100,Rp,128000,0.48896,0.4181,0.5359,-0.1178,-0.2816,0.9435,1.0926,563266,1151963

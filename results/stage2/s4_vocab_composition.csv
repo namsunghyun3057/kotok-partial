@@ -1,0 +1,4 @@
+cond,n_hangul_tokens,n_combo,n_stem_only,n_suffix_seq,n_fused,n_other,combo_share,n_combo_stems,variants_per_stem_mean
+P0,114990,44556,53494,391,15720,829,0.3875,12455,3.009
+P2G-30,111246,8345,81693,365,20341,502,0.075,2947,2.578
+P2R-30,111331,11717,77896,418,20176,1124,0.1052,3512,3.047

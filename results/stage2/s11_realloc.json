@@ -1,0 +1,27 @@
+{
+ "p0_hangul_tokens": 114990,
+ "p0_combo_tokens": 44556,
+ "p0_combo_dropped_in_p2g30": 38905,
+ "p2g30_new_tokens": 37752,
+ "p2g30_new_by_class": {
+  "stem_only": 27254,
+  "fused": 7079,
+  "combo": 2972,
+  "other": 348,
+  "suffix_seq": 99
+ },
+ "heldout_words": 1151963,
+ "split_eojeol": 515821,
+ "split_eojeol_fewer_tokens_than_P0": 5637,
+ "saved_tokens_total": 5922,
+ "saved_per_word": 0.005140790112182422,
+ "subset_using_new_tokens": 3102,
+ "saved_new_total": 3289,
+ "saved_new_per_word": 0.002855126423331305,
+ "table3_m": 0.47,
+ "table3_m_phi": -0.1308,
+ "coincidence_m_rco": 0.044355133938053994,
+ "residual_realloc_estimate": 0.08644486606194601,
+ "ratio_saved_to_residual": 0.05946900430730675,
+ "ratio_saved_new_to_residual": 0.03302829367894831
+}

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: If you use this code or these artifacts, please cite the paper below.
+title: "kotok-partial: partial pre-tokenization of Korean particles and endings"
+authors:
+  - family-names: Nam
+    given-names: Sunghyun
+  - family-names: Lee
+    given-names: Jimin
+  - family-names: Cha
+    given-names: Jungmin
+  - family-names: Seo
+    given-names: Jaehyung
+preferred-citation:
+  type: conference-paper
+  title: "How Many Particles Should Be Split Off? Token Cost and Stem Consistency of Partial Pre-tokenization for Korean Subword Tokenization"
+  collection-title: "Annual Conference on Human and Cognitive Language Technology (HCLT)"
+  year: 2026
+  authors:
+    - family-names: Nam
+      given-names: Sunghyun
+    - family-names: Lee
+      given-names: Jimin
+    - family-names: Cha
+      given-names: Jungmin
+    - family-names: Seo
+      given-names: Jaehyung

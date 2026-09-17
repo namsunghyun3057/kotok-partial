@@ -1,0 +1,3 @@
+cond,k,variant,vocab,eval_set,fertility,m2a,m2b,m3,n_words,n_tokens,split_rate,m3_nonascii
+P2,30,Rp,128000,hplt_heldout_100k,1.9237,0.911,0.8817,0.08903,1151963,2215999,0.4206,0.00108
+P2,100,Rp,128000,hplt_heldout_100k,1.9899,0.9661,0.9341,0.08587,1151963,2292339,0.48896,0.00099

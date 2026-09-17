@@ -1,0 +1,23 @@
+{
+  "seed": 20260907,
+  "shards": [
+    "train-00000-of-00464.parquet",
+    "train-00001-of-00464.parquet"
+  ],
+  "n_docs_total": 167530,
+  "n_docs_used": {
+    "heldout": 2491,
+    "train": 25190
+  },
+  "heldout": {
+    "n_sent": 100000,
+    "avg_chars": 49.75796,
+    "avg_eojeol": 11.51963
+  },
+  "train": {
+    "n_sent": 1000000,
+    "avg_chars": 50.031499,
+    "avg_eojeol": 11.594482
+  },
+  "elapsed_s": 43.1725959777832
+}

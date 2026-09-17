@@ -1,0 +1,50 @@
+{
+  "P1": {
+    "marks": 12697875,
+    "marks_per_eojeol": 1.0951653553819827
+  },
+  "P2G-10": {
+    "marks": 3831056,
+    "marks_per_eojeol": 0.33042062594948185
+  },
+  "P2G-30": {
+    "marks": 5455382,
+    "marks_per_eojeol": 0.47051537101873114
+  },
+  "P2G-100": {
+    "marks": 6077346,
+    "marks_per_eojeol": 0.5241584746951179
+  },
+  "P2R-10": {
+    "marks": 3411611,
+    "marks_per_eojeol": 0.2942443655525102
+  },
+  "P2R-30": {
+    "marks": 5140643,
+    "marks_per_eojeol": 0.443369785730833
+  },
+  "P2R-100": {
+    "marks": 6148193,
+    "marks_per_eojeol": 0.5302688813523536
+  },
+  "P2Rnb-10": {
+    "marks": 4529695,
+    "marks_per_eojeol": 0.39067678918299237
+  },
+  "P2Rnb-30": {
+    "marks": 6652236,
+    "marks_per_eojeol": 0.5737415436066915
+  },
+  "P2Rnb-100": {
+    "marks": 8004584,
+    "marks_per_eojeol": 0.69037875085752
+  },
+  "P2Rp-30": {
+    "marks": 5282251,
+    "marks_per_eojeol": 0.455583181723858
+  },
+  "P2Rp-100": {
+    "marks": 6300418,
+    "marks_per_eojeol": 0.5433979715523298
+  }
+}
